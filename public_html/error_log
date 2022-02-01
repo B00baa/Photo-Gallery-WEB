@@ -1,0 +1,2 @@
+[25-Jan-2022 16:49:10 UTC] PHP Warning:  require_once(/home/wg1774600/public_html/themes/active/templates/thumbs.php): failed to open stream: No such file or directory in /home/wg1774600/public_html/index.php on line 16
+[25-Jan-2022 16:49:10 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/wg1774600/public_html/themes/active/templates/thumbs.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/wg1774600/public_html/index.php on line 16
